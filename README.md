@@ -16,5 +16,5 @@
 
 ### Links related to _CircleCI_
 
-- [Travis CI](https://travis-ci.org/)
--
+- [Travis CI <small>(public repo)</small>](https://travis-ci.org/)
+- [Travis CI <small>(private repo)</small>](https://travis-ci.com/)
